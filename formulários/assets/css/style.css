@@ -1,0 +1,35 @@
+img{
+    width: 100%;
+}
+
+body{
+    background-color: lemonchiffon;
+}
+
+body  h1 {
+    color: orange;
+}
+p{
+    font-weight: bold;
+}
+.container{
+    background-color: rgb(228, 225, 225);
+}
+
+ form{
+    padding: 1rem;
+}
+
+.container{
+    border-radius: 2rem;
+}
+
+input{
+    padding: 1rem;
+    width: 20rem;
+}
+
+input.porque{
+    height: 8rem;
+    width: 94%;
+}
